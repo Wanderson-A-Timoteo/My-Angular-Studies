@@ -21,16 +21,6 @@
       "genero": "Ação"
     },
     {
-      "id": 3,
-      "titulo": "MIB: Homens de Preto III",
-      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTU2NTYxODcwMF5BMl5BanBnXkFtZTcwNDk1NDY0Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
-      "dtLancamento": "2012-25-11T03:00:00.000Z",
-      "descricao": "Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.",
-      "nota": 6.8,
-      "urlIMDb": "https://www.imdb.com/title/tt1409024/",
-      "genero": "Ação"
-    },
-    {
       "id": 4,
       "titulo": "MIB: Homens de Preto - Internacional",
       "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDZkODI2ZGItYTY5Yi00MTA4LWExY2ItM2ZmNjczYjM0NDg1XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UX182_CR0,0,182,268_AL_.jpg",
@@ -109,6 +99,16 @@
       "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
       "genero": "Aventura",
       "id": 11
+    },
+    {
+      "titulo": "Batman: O Cavaleiro das Trevas",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+      "dtLancamento": "2008-07-18T04:00:00.000Z",
+      "descricao": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "nota": 9,
+      "urlIMDb": "https://www.imdb.com/video/imdb/vi324468761?playlistId=tt0468569&ref_=tt_ov_vi",
+      "genero": "Ação",
+      "id": 12
     }
   ]
 }
